@@ -6,7 +6,12 @@ Side effects data was crowdsourced in the Telegram channel https://t.me/sputnik_
 
 <details>
 <summary>Visualizations (Russian)</summary>
-<br>
+  
+  <br>
+
+  Regression fits are logistic/linear, with a 95% confidence interval for mean shaded.
+  
+  V1/V2 means first and second doses of Sputnik V, respectively.
   
 ![](/images/vis01.png)
   
